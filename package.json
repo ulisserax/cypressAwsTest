@@ -1,0 +1,14 @@
+{
+  "name": "cypress_tivix",
+  "version": "1.0.0",
+  "description": "testing the amazon website searches and filters with cypress using the mochaJS design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulisses Filho <ulisses.filho@tivix.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
